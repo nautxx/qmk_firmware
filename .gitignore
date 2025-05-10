@@ -69,6 +69,7 @@ CMakeLists.txt
 *.code-workspace
 .stfolder
 .tags
+**/.vscode/
 .vscode/c_cpp_properties.json
 .vscode/ipch/
 .vscode/last.sql
